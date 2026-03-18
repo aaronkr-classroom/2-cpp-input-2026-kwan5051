@@ -15,31 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="chp0ex2.cpp">
+    <ClCompile Include="2-5 정사각형.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="name.cpp">
+    <ClCompile Include="2-5 직사각형.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1-3.cpp">
+    <ClCompile Include="2-5 삼각형.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1-4.cpp">
+    <ClCompile Include="2-6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1-5.cpp">
+    <ClCompile Include="2-7.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1-6.cpp">
+    <ClCompile Include="2-8.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="name2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="네모만들기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="triangle.cpp">
+    <ClCompile Include="2-9.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
